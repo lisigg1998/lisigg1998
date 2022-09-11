@@ -15,7 +15,11 @@ Currently I am a CS master's student at Carnegie Mellon University, and I will g
 - Developing a simple **Deep Learning System** [CMU-10714](https://dlsyscourse.org/)
   
   
-<table width="960px">
+
+📄 Check my [Resume](https://github.com/lisigg1998/lisigg1998/blob/5b78c9f467888bbebfb82ff89a31501523e5bbda/Tianjian_Huang_Resume.pdf).
+  
+  
+<!-- table width="960px">
 <tr>
 <td valign="top" width="50%">
 
@@ -27,4 +31,26 @@ Currently I am a CS master's student at Carnegie Mellon University, and I will g
 
 </td>
 </tr>
-</table>
+</table -->
+
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisigg1998&show_icons=true&locale=en&count_private=true&theme=cobalt" alt="lisigg1998" /></p>
