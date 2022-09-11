@@ -53,4 +53,7 @@ Currently I am a CS master's student at Carnegie Mellon University, and I will g
 </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisigg1998&show_icons=true&locale=en&count_private=true&theme=cobalt" alt="lisigg1998" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisigg1998&show_icons=true&locale=en&count_private=true&theme=cobalt" alt="lisigg1998" />&emsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisigg1998" alt="lisigg1998" />&nbsp;
+</p>
