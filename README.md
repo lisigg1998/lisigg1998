@@ -4,7 +4,7 @@
 
 ## About me
 
-Currently I am a CS master's student at Carnegie Mellon University, and I will graduate in May 2023.
+I am a CS master's student at Carnegie Mellon University. Currently, I am actively seeking FT SDE jobs.
   
 - **VMware**: SDE Intern (2022 Summer), worked on VMware Cloud Disaster Recovery (VCDR), mostly C/Java backend.
 - **Carnegie Mellon University** (2021-2023, expected): Computer Systems & Information Networking major, with a Master of Science.
