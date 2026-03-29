@@ -4,10 +4,12 @@
 
 ## About me
 
-I am a CS master's student at Carnegie Mellon University. Currently, I am actively seeking FT SDE jobs.
-  
+Currently working in China Merchant Bank, mainly focusing on Fund Trading & Transaction Clearing Systems, and AI-driven product development.
+
+Previous Experiences:
+
 - **VMware**: SDE Intern (2022 Summer), worked on VMware Cloud Disaster Recovery (VCDR), mostly C/Java backend.
-- **Carnegie Mellon University** (2021-2023, expected): Computer Systems & Information Networking major, with a Master of Science.
+- **Carnegie Mellon University** (2021-2023): Computer Systems & Information Networking major, with a Master of Science.
 - **The Chinese University of Hong Kong, Shenzhen** (2017-2021): Computer Science & Engineer major, with a Bachlor of Engineering.
   
 #### 🌱 Things I am currently working on: 
